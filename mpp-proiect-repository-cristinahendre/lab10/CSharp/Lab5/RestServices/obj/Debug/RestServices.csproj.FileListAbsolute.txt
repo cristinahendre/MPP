@@ -1,0 +1,13 @@
+C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab10\CSharp\Lab5\RestServices\bin\Debug\RestServices.exe.config
+C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab10\CSharp\Lab5\RestServices\bin\Debug\RestServices.exe
+C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab10\CSharp\Lab5\RestServices\bin\Debug\RestServices.pdb
+C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab10\CSharp\Lab5\RestServices\bin\Debug\Domain.exe
+C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab10\CSharp\Lab5\RestServices\bin\Debug\Domain.pdb
+C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab10\CSharp\Lab5\RestServices\obj\Debug\RestServices.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab10\CSharp\Lab5\RestServices\obj\Debug\RestServices.csproj.CopyComplete
+C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab10\CSharp\Lab5\RestServices\obj\Debug\RestServices.exe
+C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab10\CSharp\Lab5\RestServices\obj\Debug\RestServices.pdb
+C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab10\CSharp\Lab5\RestServices\obj\Debug\RestServices.csprojAssemblyReference.cache
+C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab10\CSharp\Lab5\RestServices\bin\Debug\Json.Net.dll
+C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab10\CSharp\Lab5\RestServices\bin\Debug\Newtonsoft.Json.dll
+C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab10\CSharp\Lab5\RestServices\bin\Debug\Newtonsoft.Json.xml

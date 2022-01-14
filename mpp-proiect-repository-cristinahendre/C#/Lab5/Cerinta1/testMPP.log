@@ -1,0 +1,172 @@
+﻿INFO - configurare
+INFO - In main:
+INFO - Caut voluntarul cu acest email si parola: japo1@vol.com, 20201
+INFO - am gasit voluntarul Id = 1 , nume = Porter Jax  ,email = japo1@vol.com  ,parola = 20201
+INFO - Afisez toate cazurile caritabile
+INFO - Am parcurs.
+INFO - Afisez toti donatorii
+INFO - Am parcurs.
+INFO - configurare
+INFO - In main:
+INFO - Caut voluntarul cu acest email si parola: japo1@vol.com, 20201
+INFO - am gasit voluntarul Id = 1 , nume = Porter Jax  ,email = japo1@vol.com  ,parola = 20201
+INFO - Afisez toate cazurile caritabile
+INFO - Am parcurs.
+INFO - Afisez toti donatorii
+INFO - Am parcurs.
+INFO - configurare
+INFO - In main:
+INFO - Caut voluntarul cu acest email si parola: japo1@vol.com, 20201
+INFO - am gasit voluntarul Id = 1 , nume = Porter Jax  ,email = japo1@vol.com  ,parola = 20201
+INFO - Afisez toate cazurile caritabile
+INFO - Am parcurs.
+INFO - Afisez toti donatorii
+INFO - Am parcurs.
+INFO - Caut voluntarul cu acest email si parola: japo1@vol.com, 20201
+INFO - am gasit voluntarul Id = 1 , nume = Porter Jax  ,email = japo1@vol.com  ,parola = 20201
+INFO - Afisez toate cazurile caritabile
+INFO - Am parcurs.
+INFO - Afisez toti donatorii
+INFO - Am parcurs.
+INFO - configurare
+INFO - In main:
+INFO - Caut voluntarul cu acest email si parola: japo1@vol.com, 20201
+INFO - am gasit voluntarul Id = 1 , nume = Porter Jax  ,email = japo1@vol.com  ,parola = 20201
+INFO - Afisez toate cazurile caritabile
+INFO - Am parcurs.
+INFO - Afisez toti donatorii
+INFO - Am parcurs.
+INFO - configurare
+INFO - In main:
+INFO - Caut voluntarul cu acest email si parola: japo1@vol.com, 20201
+INFO - am gasit voluntarul Id = 1 , nume = Porter Jax  ,email = japo1@vol.com  ,parola = 20201
+INFO - Afisez toate cazurile caritabile
+INFO - Am parcurs.
+INFO - Afisez toti donatorii
+INFO - Am parcurs.
+INFO - configurare
+INFO - In main:
+INFO - configurare
+INFO - In main:
+INFO - Caut voluntarul cu acest email si parola: japo1@vol.com, 20201
+INFO - am gasit voluntarul Id = 1 , nume = Porter Jax  ,email = japo1@vol.com  ,parola = 20201
+INFO - Afisez toate cazurile caritabile
+INFO - Am parcurs.
+INFO - Afisez toti donatorii
+INFO - Am parcurs.
+INFO - configurare
+INFO - In main:
+INFO - Caut voluntarul cu acest email si parola: japo1@vol.com, 20201
+INFO - am gasit voluntarul Id = 1 , nume = Porter Jax  ,email = japo1@vol.com  ,parola = 20201
+INFO - Afisez toate cazurile caritabile
+INFO - Am parcurs.
+INFO - Afisez toti donatorii
+INFO - Am parcurs.
+INFO - Afisez toti donatorii ce au numele/prenumele incepand cu P
+INFO - Am terminat.
+INFO - Afisez toti donatorii ce au numele/prenumele incepand cu 
+INFO - Am terminat.
+INFO - Afisez toti donatorii ce au numele/prenumele incepand cu Y
+INFO - Am terminat.
+INFO - Afisez toti donatorii ce au numele/prenumele incepand cu 
+INFO - Am terminat.
+INFO - Afisez toti donatorii ce au numele/prenumele incepand cu E
+INFO - Am terminat.
+INFO - Afisez toti donatorii ce au numele/prenumele incepand cu 
+INFO - Am terminat.
+INFO - Afisez toti donatorii ce au numele/prenumele incepand cu B
+INFO - Am terminat.
+INFO - Afisez toti donatorii ce au numele/prenumele incepand cu 
+INFO - Am terminat.
+INFO - Afisez toti donatorii ce au numele/prenumele incepand cu M
+INFO - Am terminat.
+INFO - se cauta donatorul cu aceste date: Maroon, Phineas, Alba;78;Pitesti, 99992
+INFO - am gasit acest id: 32
+INFO - Caut cazul cu acest 
+INFO - am gasit cazul Id = 5 ,nume = Finance Would Be a Fine Thing  ,suma donata = 110
+INFO - Voi salva donatia Donatia cu id = 0 , la cazul cu numele  = Finance Would Be a Fine Thing  , donator = Maroon Phineas , suma donata = 2
+INFO - Modific cazul Id = 5 ,nume = Finance Would Be a Fine Thing  ,suma donata = 112
+INFO - Caz modificat cu succes.
+INFO - Salvarea donatiei e cu succes.
+INFO - Caut cazul cu acest 
+INFO - am gasit cazul Id = 4 ,nume = Anonymous Saves the Day  ,suma donata = 508
+INFO - Voi salva donatia Donatia cu id = 0 , la cazul cu numele  = Anonymous Saves the Day  , donator = Maroon Phineas , suma donata = 2
+INFO - Modific cazul Id = 4 ,nume = Anonymous Saves the Day  ,suma donata = 510
+INFO - Caz modificat cu succes.
+INFO - Salvarea donatiei e cu succes.
+INFO - Afisez toate cazurile caritabile
+INFO - Am parcurs.
+INFO - Afisez toti donatorii
+INFO - Am parcurs.
+INFO - se cauta donatorul cu aceste date: Maroon, Phineas, Alba;78;Pitesti, 99992
+INFO - am gasit acest id: 32
+INFO - Caut cazul cu acest 
+INFO - am gasit cazul Id = 6 ,nume = Back to Care One  ,suma donata = 100
+INFO - Voi salva donatia Donatia cu id = 0 , la cazul cu numele  = Back to Care One  , donator = Maroon Phineas , suma donata = 2
+INFO - Modific cazul Id = 6 ,nume = Back to Care One  ,suma donata = 102
+INFO - Caz modificat cu succes.
+INFO - Salvarea donatiei e cu succes.
+INFO - Afisez toate cazurile caritabile
+INFO - Am parcurs.
+INFO - Afisez toti donatorii
+INFO - Am parcurs.
+INFO - se cauta donatorul cu aceste date: Lee, Georgia-Isabel, Dartmouth Bank,45,La Palmier, 773
+INFO - Nu s-a gasit acest donator.
+INFO - Voi salva donatorul Id = 0  ,nume = Lee Georgia-Isabel , adresa = Dartmouth Bank,45,La Palmier  , nr. telefon = 773
+INFO - Salvarea donatorului e cu succes.
+INFO - se cauta donatorul cu aceste date: Lee, Georgia-Isabel, Dartmouth Bank,45,La Palmier, 773
+INFO - am gasit acest id: 39
+INFO - Caut cazul cu acest 
+INFO - am gasit cazul Id = 4 ,nume = Anonymous Saves the Day  ,suma donata = 510
+INFO - Voi salva donatia Donatia cu id = 0 , la cazul cu numele  = Anonymous Saves the Day  , donator = Lee Georgia-Isabel , suma donata = 2
+INFO - Modific cazul Id = 4 ,nume = Anonymous Saves the Day  ,suma donata = 512
+INFO - Caz modificat cu succes.
+INFO - Salvarea donatiei e cu succes.
+INFO - Afisez toate cazurile caritabile
+INFO - Am parcurs.
+INFO - Afisez toti donatorii
+INFO - Am parcurs.
+INFO - Caut voluntarul cu acest email si parola: japo1@vol.com, 20201
+INFO - am gasit voluntarul Id = 1 , nume = Porter Jax  ,email = japo1@vol.com  ,parola = 20201
+INFO - Afisez toate cazurile caritabile
+INFO - Am parcurs.
+INFO - Afisez toti donatorii
+INFO - Am parcurs.
+INFO - configurare
+INFO - In main:
+INFO - Caut voluntarul cu acest email si parola: japo1@vol.com, 20201
+INFO - am gasit voluntarul Id = 1 , nume = Porter Jax  ,email = japo1@vol.com  ,parola = 20201
+INFO - Afisez toate cazurile caritabile
+INFO - Am parcurs.
+INFO - Afisez toti donatorii
+INFO - Am parcurs.
+INFO - Afisez toti donatorii ce au numele/prenumele incepand cu L
+INFO - Am terminat.
+INFO - se cauta donatorul cu aceste date: Lee, Georgia-Isabel, Dartmouth Bank,45,La Palmier, 773
+INFO - am gasit acest id: 39
+INFO - Caut cazul cu acest 
+INFO - am gasit cazul Id = 5 ,nume = Finance Would Be a Fine Thing  ,suma donata = 112
+INFO - Voi salva donatia Donatia cu id = 0 , la cazul cu numele  = Finance Would Be a Fine Thing  , donator = Lee Georgia-Isabel , suma donata = 9
+INFO - Modific cazul Id = 5 ,nume = Finance Would Be a Fine Thing  ,suma donata = 121
+INFO - Caz modificat cu succes.
+INFO - Salvarea donatiei e cu succes.
+INFO - Afisez toate cazurile caritabile
+INFO - Am parcurs.
+INFO - Afisez toti donatorii
+INFO - Am parcurs.
+INFO - configurare
+INFO - In main:
+INFO - Caut voluntarul cu acest email si parola: japo1@vol.com, 20201
+INFO - am gasit voluntarul Id = 1 , nume = Porter Jax  ,email = japo1@vol.com  ,parola = 20201
+INFO - Afisez toate cazurile caritabile
+INFO - Am parcurs.
+INFO - Afisez toti donatorii
+INFO - Am parcurs.
+INFO - configurare
+INFO - In main:
+INFO - Caut voluntarul cu acest email si parola: japo1@vol.com, 20201
+INFO - am gasit voluntarul Id = 1 , nume = Porter Jax  ,email = japo1@vol.com  ,parola = 20201
+INFO - Afisez toate cazurile caritabile
+INFO - Am parcurs.
+INFO - Afisez toti donatorii
+INFO - Am parcurs.

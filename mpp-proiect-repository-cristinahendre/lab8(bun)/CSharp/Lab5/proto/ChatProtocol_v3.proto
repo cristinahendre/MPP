@@ -1,0 +1,80 @@
+syntax="proto3";
+package chat.protocol;
+
+option java_package = "protoProtocol";
+option java_outer_classname = "ChatProtobufs";
+
+message Voluntar{
+     int32 id=1;
+     string nume=2;
+     string prenume=3;
+     string email=4;
+     string passwd=5;
+
+}
+
+message CazCaritabil{
+
+    int32 id=1;
+    string nume=2;
+    int32  suma=3;
+
+}
+
+message Donator{
+  int32  id=1;
+  string nume=2;
+  string prenume=3;
+  string adresa=4;
+  float nr=5;
+
+}
+
+message Donatie{
+
+  int32 id=1;
+  CazCaritabil caz=2;
+  Donator don=3;
+  int32  suma=4;
+
+}
+
+
+message ChatRequest {
+  // LOGIN, LOGOUT, GET_CAZURI ,GET_DONATORI, SEARCH_DONATOR, GET_DATE_DON,
+  //    SAVE_DON, SAVE_DONATIE, NEW_DONATIE, GET_VOL
+  enum Type {Unkown=0; Login = 1; Logout = 2; GetCazuri = 3; GetDonatori=4 ;
+       SearchDonator=5; GetDateDonator=6; SaveDonator=7; SaveDonatie=8; Refresh=9;}
+
+  // Identifies which request is filled in.
+   Type type = 1;
+
+  // One of the following will be filled in, depending on the type.
+  repeated Voluntar voluntar=2;
+  Donatie donatie=3;
+  Donator donator=4;
+  string text=5;
+}
+
+message ChatResponse{
+  //  OK, ERROR, UPDATE, NEW_DONATIE, NEW_DONATOR, REFRESH, GET_CAZURI, GET_DONATORI,
+  //    GET_DONATOR, GET_DONATOR_NUME,LOGOUT, SAVE_DONATOR
+   enum Type { Unknown=0; Ok = 1; Error = 2; Update=3; NewDonatie = 4;
+   NewDonator=5; Refresh=6;  GetCazuri=7; GetDonatori=8; GetDonator=9; GetNumeDon=10;
+   Logout=11;SaveDonator=12;}
+
+     // Identifies which request is filled in.
+      Type type = 1;
+
+     // One of the following will be filled in, depending on the type.
+      string error = 2;
+      repeated Voluntar voluntar=3;
+      repeated Donator donator=4;
+      Donatie donatie=5;
+      repeated CazCaritabil cazuri =6;
+      string text=7;
+
+
+
+
+}

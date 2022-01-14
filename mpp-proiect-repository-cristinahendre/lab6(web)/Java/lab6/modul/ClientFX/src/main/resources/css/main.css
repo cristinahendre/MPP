@@ -1,0 +1,7 @@
+.root{
+    -fx-background-color:#d9e6f2;
+}
+
+.table-view:row-selection{
+    -fx-background-color: #b3cce6;
+}

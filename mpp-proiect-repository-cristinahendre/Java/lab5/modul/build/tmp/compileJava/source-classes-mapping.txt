@@ -1,0 +1,62 @@
+Service/SuperService.java
+ Service.SuperService
+Repository/Repository.java
+ Repository.Repository
+utils/Observer.java
+ utils.Observer
+Domain/CazCaritabil.java
+ Domain.CazCaritabil
+Domain/Validators/Validator.java
+ Domain.Validators.Validator
+Controller/Notification.java
+ Controller.Notification
+Domain/Validators/VoluntarValidator.java
+ Domain.Validators.VoluntarValidator
+Repository/CazRepoI.java
+ Repository.CazRepoI
+utils/Event.java
+ utils.Event
+utils/Observable.java
+ utils.Observable
+Domain/Validators/ValidationException.java
+ Domain.Validators.ValidationException
+utils/JdbcUtils.java
+ utils.JdbcUtils
+MainFX.java
+ MainFX
+Repository/DonatieRepoI.java
+ Repository.DonatieRepoI
+Domain/Voluntar.java
+ Domain.Voluntar
+Domain/Entity.java
+ Domain.Entity
+Repository/VoluntarRepoI.java
+ Repository.VoluntarRepoI
+Service/ServiceException.java
+ Service.ServiceException
+Repository/CazRepo.java
+ Repository.CazRepo
+Repository/VoluntarRepo.java
+ Repository.VoluntarRepo
+Domain/Validators/DonatorValidator.java
+ Domain.Validators.DonatorValidator
+Main.java
+ Main
+Repository/DonatorRepo.java
+ Repository.DonatorRepo
+Domain/Donator.java
+ Domain.Donator
+Domain/Validators/DonatieValidator.java
+ Domain.Validators.DonatieValidator
+Domain/Donatie.java
+ Domain.Donatie
+Repository/DonatieRepo.java
+ Repository.DonatieRepo
+Repository/DonatorRepoI.java
+ Repository.DonatorRepoI
+Domain/MD5.java
+ Domain.MD5
+Controller/MainController.java
+ Controller.MainController
+Controller/LoginController.java
+ Controller.LoginController

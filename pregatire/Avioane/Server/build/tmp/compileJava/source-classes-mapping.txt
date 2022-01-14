@@ -1,0 +1,13 @@
+dialect/identity/SQLiteDialectIdentityColumnSupport.java
+ dialect.identity.SQLiteDialectIdentityColumnSupport
+StartServer.java
+ StartServer
+dialect/SQLiteDialect.java
+ dialect.SQLiteDialect
+ dialect.SQLiteDialect$1
+ dialect.SQLiteDialect$2
+ dialect.SQLiteDialect$3
+ dialect.SQLiteDialect$4
+ dialect.SQLiteDialect$SQLiteUniqueDelegate
+SuperService.java
+ SuperService

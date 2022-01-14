@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="340.0" prefWidth="450.0" stylesheets="@css/main.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="MainController">
+    <children>
+        <TableView fx:id="tableView" layoutX="14.0" layoutY="59.0" prefHeight="128.0" prefWidth="90.0">
+            <columns>
+                <TableColumn fx:id="idColumn" prefWidth="89.66665935516357" text="Id" />
+            </columns>
+        </TableView>
+        <Label layoutX="14.0" layoutY="18.0" text="Persoane" />
+
+        <Button fx:id="butonIesire" layoutX="11.0" layoutY="201.0" mnemonicParsing="false" onAction="#exitApp" text="Logout" />
+      <Button fx:id="butonStart" layoutX="125.0" layoutY="59.0" mnemonicParsing="false" onAction="#start" text="Start" />
+      <Label fx:id="cuvantText" layoutX="190.0" layoutY="63.0" text="Cuvant" />
+      <TextField fx:id="car1" layoutX="116.0" layoutY="110.0" promptText="Caracteristica1" />
+      <TextField fx:id="car2" layoutX="116.0" layoutY="145.0" promptText="Caracteristica2" />
+      <Button fx:id="butonSend" layoutX="120.0" layoutY="188.0" mnemonicParsing="false" onAction="#trimiteCarac" text="Trimite" />
+
+    </children>
+</AnchorPane>

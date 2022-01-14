@@ -1,0 +1,15 @@
+dialect/SQLiteDialect.java
+ dialect.SQLiteDialect
+ dialect.SQLiteDialect$1
+ dialect.SQLiteDialect$2
+ dialect.SQLiteDialect$3
+ dialect.SQLiteDialect$4
+ dialect.SQLiteDialect$SQLiteUniqueDelegate
+dialect/identity/SQLiteDialectIdentityColumnSupport.java
+ dialect.identity.SQLiteDialectIdentityColumnSupport
+MainTest.java
+ MainTest
+StartRpcServer.java
+ StartRpcServer
+SuperService.java
+ SuperService

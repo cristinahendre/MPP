@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+
+<AnchorPane prefHeight="300.0" prefWidth="300.0" stylesheets="@css/main.css" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="TablaController">
+   <children>
+      <Rectangle fx:id="unu" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="37.0" layoutX="30.0" layoutY="37.0" stroke="BLACK" strokeType="INSIDE" width="39.0" />
+      <Rectangle fx:id="doi" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="37.0" layoutX="77.0" layoutY="37.0" stroke="BLACK" strokeType="INSIDE" width="39.0" />
+      <Rectangle fx:id="trei" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="37.0" layoutX="123.0" layoutY="37.0" stroke="BLACK" strokeType="INSIDE" width="39.0" />
+      <Rectangle fx:id="patru" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="37.0" layoutX="30.0" layoutY="90.0" stroke="BLACK" strokeType="INSIDE" width="39.0" />
+      <Rectangle fx:id="cinci" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="37.0" layoutX="77.0" layoutY="90.0" stroke="BLACK" strokeType="INSIDE" width="39.0" />
+      <Rectangle fx:id="sase" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="37.0" layoutX="123.0" layoutY="90.0" stroke="BLACK" strokeType="INSIDE" width="39.0" />
+      <Rectangle fx:id="noua" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="37.0" layoutX="123.0" layoutY="139.0" stroke="BLACK" strokeType="INSIDE" width="39.0" />
+      <Rectangle fx:id="opt" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="37.0" layoutX="77.0" layoutY="139.0" stroke="BLACK" strokeType="INSIDE" width="39.0" />
+      <Rectangle fx:id="sapte" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="37.0" layoutX="30.0" layoutY="139.0" stroke="BLACK" strokeType="INSIDE" width="39.0" />
+      <Button fx:id="butonStart" layoutX="29.0" layoutY="228.0" mnemonicParsing="false" onAction="#start" text="Start" />
+      <TextField fx:id="pozAvion" layoutX="30.0" layoutY="194.0" promptText="Pozitie Avion" />
+      <TableView fx:id="tableView" layoutX="168.0" layoutY="37.0" prefHeight="110.0" prefWidth="117.0">
+        <columns>
+          <TableColumn fx:id="idPlayer" prefWidth="116.00000508626302" text="Players" />
+        </columns>
+      </TableView>
+      <Button fx:id="butonAlege" layoutX="79.0" layoutY="228.0" mnemonicParsing="false" onAction="#alegere" text="Alege" />
+      <Button layoutX="136.0" layoutY="228.0" mnemonicParsing="false" onAction="#logout" text="Logout" />
+
+   </children>
+</AnchorPane>

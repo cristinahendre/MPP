@@ -1,0 +1,9 @@
+rootProject.name = 'modul'
+include 'ChatServices'
+include 'ClientFX'
+include 'RepoModule'
+include 'DomainModule'
+include 'ServiceModule'
+include 'NetworkModule'
+include 'ServerModule'
+

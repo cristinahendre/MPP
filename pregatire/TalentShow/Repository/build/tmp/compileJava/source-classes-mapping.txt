@@ -1,0 +1,20 @@
+Repo/PersoanaRepo.java
+ Repo.PersoanaRepo
+Repo/HibernateUtil.java
+ Repo.HibernateUtil
+Repo/IPersoanaRepository.java
+ Repo.IPersoanaRepository
+Repo/HPersoanaRepo.java
+ Repo.HPersoanaRepo
+Repo/Repository.java
+ Repo.Repository
+Repo/JdbcUtils.java
+ Repo.JdbcUtils
+Repo/INoteRepository.java
+ Repo.INoteRepository
+Repo/IParticipantRepository.java
+ Repo.IParticipantRepository
+Repo/HParticipantRepo.java
+ Repo.HParticipantRepo
+Repo/NotaRepo.java
+ Repo.NotaRepo

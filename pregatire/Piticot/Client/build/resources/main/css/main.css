@@ -1,0 +1,26 @@
+.body{
+    -fx-background-color:#ffb3e6;
+    -fx-text-fill: #660044;
+}
+
+.button{
+
+    -fx-background-color:#ffe6f7;
+    -fx-text-fill: #660044;
+}
+
+.text-field{
+    -fx-background-color:#330033;
+    -fx-text-fill: #ffffff;
+}
+
+
+
+.table-view:row-selection{
+    -fx-background-color: #ffccff;
+    -fx-font-size: 12px;}
+
+.table-view{
+    -fx-background-color: #ffe6ff;
+    -fx-text-fill: #b300b3;
+}

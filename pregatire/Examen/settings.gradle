@@ -1,0 +1,9 @@
+rootProject.name = 'Template'
+include 'Client'
+include 'Domain'
+include 'Network'
+include 'Repository'
+include 'Server'
+include 'Service'
+include 'Rest'
+

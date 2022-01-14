@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd">
+
+
+    <util:properties id="props" location="classpath:chatserver.properties"/>
+    <bean id="cazRepo" class="Repository.CazRepo">
+        <constructor-arg ref="props"/>
+    </bean>
+    <bean id="donatorRepo" class="Repository.DonatorRepo">
+        <constructor-arg ref="props"/>
+
+    </bean>
+    <bean id="voluntarRepo" class="Repository.VoluntarRepo">
+        <constructor-arg ref="props"/>
+
+    </bean>
+    <bean id="donatieRepo" class="Repository.DonatieRepo">
+        <constructor-arg index="0" ref="props"/>
+
+        <constructor-arg index="1" ref="cazRepo"/>
+        <constructor-arg index="2" ref="donatorRepo"/>
+
+    </bean>
+
+    <bean id="chatService" class="SuperService">
+
+        <constructor-arg index="0" ref="cazRepo"/>
+        <constructor-arg index="1" ref="donatorRepo"/>
+        <constructor-arg index="2" ref="donatieRepo"/>
+        <constructor-arg index="3" ref="voluntarRepo"/>
+
+    </bean>
+
+    <bean class="org.springframework.remoting.rmi.RmiServiceExporter">
+
+        <property name="serviceName" value="Chat"/>
+        <property name="service" ref="chatService"/>
+        <property name="serviceInterface" value="Service.IService"/>
+        <property name="servicePort" value="1099"/>
+    </bean>
+
+
+
+</beans>

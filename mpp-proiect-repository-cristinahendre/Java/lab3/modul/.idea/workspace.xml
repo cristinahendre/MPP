@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6383ffb5-431f-435a-a28a-869183b31633" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../C#/Lab5/.vs/Cerinta1/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../C#/Lab5/.vs/Cerinta1/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../C#/Lab5/Cerinta1/testMPP.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../C#/Lab5/Cerinta1/testMPP.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab10/CSharp/.vs/CSharp/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab10/CSharp/.vs/CSharp/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab10/CSharp/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab10/CSharp/.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab10/CSharp/Lab5/.vs/Cerinta1/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab10/CSharp/Lab5/.vs/Cerinta1/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab10/nou/lab6/modul/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab10/nou/lab6/modul/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab10/nou/lab6/modul/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab10/nou/lab6/modul/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab10/nou/lab6/modul/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab10/nou/lab6/modul/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab6(web)/CSharp/Lab5/.vs/Cerinta1/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab6(web)/CSharp/Lab5/.vs/Cerinta1/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab6(web)/CSharp/Lab5/.vs/Lab5/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab6(web)/CSharp/Lab5/.vs/Lab5/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab6(web)/CSharp/Lab5/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab6(web)/CSharp/Lab5/.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab6(web)/CSharp/Lab5/Network/ChatClientObjectWorker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab6(web)/CSharp/Lab5/Network/ChatClientObjectWorker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab8/CSharp/Lab5/.vs/Cerinta1/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab8/CSharp/Lab5/.vs/Cerinta1/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab8/CSharp/Lab5/ClientN/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab8/CSharp/Lab5/ClientN/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab8/Java/lab6/modul/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab8/Java/lab6/modul/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab8/Java/lab6/modul/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab9(Java)/Java/lab6/modul/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab9(Java)/Java/lab6/modul/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab9(Java)/Java/lab6/modul/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab9(Java)/Java/lab6/modul/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab9(Java)/Java/lab6/modul/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab9(Java)/Java/lab6/modul/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1pHxoMosEERcj5ArsHJVsQpUkw5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lab5/modul" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6383ffb5-431f-435a-a28a-869183b31633" name="Default Changelist" comment="" />
+      <created>1614853991595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614853991595</updated>
+      <workItem from="1614853992979" duration="1088000" />
+      <workItem from="1614872322308" duration="3761000" />
+      <workItem from="1614926306972" duration="258000" />
+      <workItem from="1614926713121" duration="418000" />
+      <workItem from="1614929042197" duration="1298000" />
+      <workItem from="1614936542003" duration="1957000" />
+      <workItem from="1615123367321" duration="58000" />
+      <workItem from="1616508018480" duration="53000" />
+      <workItem from="1621614514966" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

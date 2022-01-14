@@ -1,0 +1,6 @@
+C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab6(web)\CSharp\Lab5\Domain\bin\Debug\Domain.exe
+C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab6(web)\CSharp\Lab5\Domain\bin\Debug\Domain.pdb
+C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab6(web)\CSharp\Lab5\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab6(web)\CSharp\Lab5\Domain\obj\Debug\Domain.exe
+C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab6(web)\CSharp\Lab5\Domain\obj\Debug\Domain.pdb
+C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab6(web)\CSharp\Lab5\Domain\obj\Debug\Domain.csprojAssemblyReference.cache

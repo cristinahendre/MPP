@@ -1,0 +1,20 @@
+Repository/CazRepoI.java
+ Repository.CazRepoI
+Repository/JdbcUtils.java
+ Repository.JdbcUtils
+Repository/Repository.java
+ Repository.Repository
+Repository/VoluntarRepoI.java
+ Repository.VoluntarRepoI
+Repository/VoluntarRepo.java
+ Repository.VoluntarRepo
+Repository/CazRepo.java
+ Repository.CazRepo
+Repository/DonatieRepoI.java
+ Repository.DonatieRepoI
+Repository/DonatieRepo.java
+ Repository.DonatieRepo
+Repository/DonatorRepoI.java
+ Repository.DonatorRepoI
+Repository/DonatorRepo.java
+ Repository.DonatorRepo

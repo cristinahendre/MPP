@@ -1,0 +1,26 @@
+Domain/NotificationType.java
+ Domain.NotificationType
+Domain/Entity.java
+ Domain.Entity
+Domain/Validators/Validator.java
+ Domain.Validators.Validator
+Domain/Validators/ValidationException.java
+ Domain.Validators.ValidationException
+Domain/MD5.java
+ Domain.MD5
+Domain/Validators/VoluntarValidator.java
+ Domain.Validators.VoluntarValidator
+Domain/Notification.java
+ Domain.Notification
+Domain/Validators/DonatorValidator.java
+ Domain.Validators.DonatorValidator
+Domain/Donator.java
+ Domain.Donator
+Domain/Validators/DonatieValidator.java
+ Domain.Validators.DonatieValidator
+Domain/Donatie.java
+ Domain.Donatie
+Domain/Voluntar.java
+ Domain.Voluntar
+Domain/CazCaritabil.java
+ Domain.CazCaritabil

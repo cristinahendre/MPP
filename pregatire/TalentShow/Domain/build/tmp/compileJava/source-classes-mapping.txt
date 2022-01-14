@@ -1,0 +1,8 @@
+Domain/Nota.java
+ Domain.Nota
+Domain/RequestStatus.java
+ Domain.RequestStatus
+Domain/Participant.java
+ Domain.Participant
+Domain/Persoana.java
+ Domain.Persoana

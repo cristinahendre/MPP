@@ -1,0 +1,26 @@
+.UserApp {
+    text-align: center;
+    align-content: center;
+    color:salmon;
+}
+.UserApp-h1{
+    text-align: center;
+
+    font-family: 'Palace Script MT', serif;
+    font-size: large;
+
+}
+.UserTable{
+    text-align: center;
+    font-family: "Magneto", fantasy;
+    font-size: medium;
+    color: salmon;
+    margin-left: 300px;
+}
+.UserApp-body{
+    align-content: center;
+}
+table.center {
+    margin-left:140px;
+    margin-right:auto;
+}

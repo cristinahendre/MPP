@@ -1,0 +1,16 @@
+Repo/HibernateUtil.java
+ Repo.HibernateUtil
+Repo/JdbcUtils.java
+ Repo.JdbcUtils
+Repo/Repository.java
+ Repo.Repository
+Repo/PersoanaRepo.java
+ Repo.PersoanaRepo
+Repo/IPersoanaRepository.java
+ Repo.IPersoanaRepository
+Repo/HPersoanaRepo.java
+ Repo.HPersoanaRepo
+Repo/JocRepo.java
+ Repo.JocRepo
+Repo/IJocRepository.java
+ Repo.IJocRepository

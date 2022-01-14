@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="Domain.Joc"
+           table="joc2">
+        <id name="id" column="id" >
+        </id>
+        <property
+                name="runda"
+                type="int"
+                column="runda"/>
+
+        <property
+                name="jucator"
+                type="int"
+                column="jucator"/>
+        <property
+                name="cuvant"
+                type="text"
+                column="cuvant"/>
+  <property
+                name="caracteristici"
+                type="text"
+                column="caracteristici"/>
+
+        <property
+                name="puncte"
+                type="int"
+                column="puncte"/>
+
+    </class>
+</hibernate-mapping>

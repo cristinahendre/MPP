@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39289b4d-b31b-4992-855c-37a83d25e2a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../C#/Lab5/.vs/Cerinta1/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../C#/Lab5/.vs/Cerinta1/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/lab5/modul/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/lab5/modul/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/lab5/modul/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/lab5/modul/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Java/lab5/modul/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Java/lab5/modul/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/modul">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/modul">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/modul/ClientFX">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="modul" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="modul" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="modul" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="modul" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="modul" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="modul" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="modul" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="modul" type="f1a62948:ProjectNode" />
+                <item name="ClientFX" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="modul" type="f1a62948:ProjectNode" />
+                <item name="ClientFX" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="modul" type="f1a62948:ProjectNode" />
+                <item name="ClientFX" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="1pO4eFb0cd6kr3wFw9eEDvArImS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="postgresql&#10;sqlite" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/modul" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\Java\lab5\modul\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\lab6(web)\Java\lab6\modul\ClientFX\src\main\resources" />
+      <recent name="C:\Users\crist\Documents\MPP\mpp-proiect-repository-cristinahendre\Java\lab5\modul\src\main\resources\css" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.modul:ClientFX [build]">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="modul.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="modul [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/modul" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="modul [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/modul" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="modul [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/modul" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="modul:ClientFX [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/modul/ClientFX" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--scan" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Gradle.modul [run]" />
+      <item itemvalue="Gradle.modul [build]" />
+      <item itemvalue="Gradle.modul [buildDependents]" />
+      <item itemvalue="Gradle.modul:ClientFX [build]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.modul:ClientFX [build]" />
+        <item itemvalue="Gradle.modul [buildDependents]" />
+        <item itemvalue="Gradle.modul [build]" />
+        <item itemvalue="Gradle.modul [run]" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39289b4d-b31b-4992-855c-37a83d25e2a3" name="Default Changelist" comment="" />
+      <created>1615040898035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615040898035</updated>
+      <workItem from="1615040899839" duration="173000" />
+      <workItem from="1615045358120" duration="44000" />
+      <workItem from="1615123430519" duration="33000" />
+      <workItem from="1615123500924" duration="1929000" />
+      <workItem from="1615204177126" duration="28000" />
+      <workItem from="1615219707507" duration="13000" />
+      <workItem from="1615284237293" duration="30000" />
+      <workItem from="1615284394496" duration="125000" />
+      <workItem from="1615295073914" duration="2847000" />
+      <workItem from="1615303039263" duration="8267000" />
+      <workItem from="1615358032516" duration="1232000" />
+      <workItem from="1615359395040" duration="37000" />
+      <workItem from="1615399120404" duration="65000" />
+      <workItem from="1615442364958" duration="4371000" />
+      <workItem from="1615468478756" duration="541000" />
+      <workItem from="1615474885904" duration="261000" />
+      <workItem from="1615535667248" duration="24000" />
+      <workItem from="1615627514338" duration="19000" />
+      <workItem from="1615964114318" duration="50000" />
+      <workItem from="1615964218361" duration="74000" />
+      <workItem from="1615964340677" duration="2028000" />
+      <workItem from="1615968021774" duration="423000" />
+      <workItem from="1615968986617" duration="14809000" />
+      <workItem from="1615986680966" duration="2410000" />
+      <workItem from="1615990783609" duration="604000" />
+      <workItem from="1615991410859" duration="654000" />
+      <workItem from="1616046925408" duration="772000" />
+      <workItem from="1616048818297" duration="23000" />
+      <workItem from="1616057454171" duration="840000" />
+      <workItem from="1616084539185" duration="2858000" />
+      <workItem from="1616093754959" duration="21000" />
+      <workItem from="1616137557980" duration="5513000" />
+      <workItem from="1616150375031" duration="14000" />
+      <workItem from="1616170637916" duration="4972000" />
+      <workItem from="1616178131708" duration="90000" />
+      <workItem from="1616229306207" duration="2031000" />
+      <workItem from="1616237941743" duration="37000" />
+      <workItem from="1616305243931" duration="497000" />
+      <workItem from="1616305813153" duration="1567000" />
+      <workItem from="1616323914403" duration="20000" />
+      <workItem from="1616347188174" duration="4281000" />
+      <workItem from="1616396604899" duration="977000" />
+      <workItem from="1616399969534" duration="18000" />
+      <workItem from="1616492581426" duration="1156000" />
+      <workItem from="1616494124305" duration="629000" />
+      <workItem from="1616507987731" duration="2709000" />
+      <workItem from="1616515512698" duration="63000" />
+      <workItem from="1616515809479" duration="1549000" />
+      <workItem from="1616519251992" duration="1502000" />
+      <workItem from="1616751301684" duration="73000" />
+      <workItem from="1616751395991" duration="141000" />
+      <workItem from="1616751566751" duration="606000" />
+      <workItem from="1616752363765" duration="26000" />
+      <workItem from="1616752709097" duration="3847000" />
+      <workItem from="1616756941076" duration="562000" />
+      <workItem from="1616757522552" duration="67000" />
+      <workItem from="1616759174646" duration="893000" />
+      <workItem from="1616762122095" duration="1194000" />
+      <workItem from="1616765472147" duration="15000" />
+      <workItem from="1616780290202" duration="3240000" />
+      <workItem from="1616839771321" duration="4000" />
+    </task>
+    <task id="LOCAL-00001" summary="Lab3 (Java)">
+      <created>1615447269937</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615447269937</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Lab3 (Java)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab3 (Java)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modul/ClientFX/src/main/java/MainFXClient.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

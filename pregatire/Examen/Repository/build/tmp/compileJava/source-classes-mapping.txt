@@ -1,0 +1,26 @@
+Repo/JucatorRepo.java
+ Repo.JucatorRepo
+Repo/Repository.java
+ Repo.Repository
+Repo/JdbcUtils.java
+ Repo.JdbcUtils
+Repo/IJucatorRepository.java
+ Repo.IJucatorRepository
+Repo/HibernateUtil.java
+ Repo.HibernateUtil
+Repo/IJoc2Repository.java
+ Repo.IJoc2Repository
+Repo/JocRepo.java
+ Repo.JocRepo
+Repo/HCuvantRepo.java
+ Repo.HCuvantRepo
+Repo/ICuvantRepository.java
+ Repo.ICuvantRepository
+Repo/HJoc2Repo.java
+ Repo.HJoc2Repo
+Repo/Joc2Repo.java
+ Repo.Joc2Repo
+Repo/IJocRepository.java
+ Repo.IJocRepository
+Repo/HJucatorRepo.java
+ Repo.HJucatorRepo

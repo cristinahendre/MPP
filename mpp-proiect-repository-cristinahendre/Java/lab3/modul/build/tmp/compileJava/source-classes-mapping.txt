@@ -1,0 +1,50 @@
+Domain/Validators/Validator.java
+ Domain.Validators.Validator
+utils/Observable.java
+ utils.Observable
+utils/Observer.java
+ utils.Observer
+utils/JdbcUtils.java
+ utils.JdbcUtils
+Domain/Entity.java
+ Domain.Entity
+Repository/Repository.java
+ Repository.Repository
+Service/SuperService.java
+ Service.SuperService
+utils/Event.java
+ utils.Event
+Domain/Validators/ValidationException.java
+ Domain.Validators.ValidationException
+Domain/Validators/DonatorValidator.java
+ Domain.Validators.DonatorValidator
+Domain/Donator.java
+ Domain.Donator
+Domain/Validators/DonatieValidator.java
+ Domain.Validators.DonatieValidator
+Repository/DonatieRepo.java
+ Repository.DonatieRepo
+Repository/DonatorRepoI.java
+ Repository.DonatorRepoI
+Domain/CazCaritabil.java
+ Domain.CazCaritabil
+Repository/CazRepoI.java
+ Repository.CazRepoI
+Domain/Validators/VoluntarValidator.java
+ Domain.Validators.VoluntarValidator
+Repository/VoluntarRepoI.java
+ Repository.VoluntarRepoI
+Repository/DonatorRepo.java
+ Repository.DonatorRepo
+Repository/VoluntarRepo.java
+ Repository.VoluntarRepo
+Repository/CazRepo.java
+ Repository.CazRepo
+Repository/DonatieRepoI.java
+ Repository.DonatieRepoI
+Domain/Donatie.java
+ Domain.Donatie
+Domain/Voluntar.java
+ Domain.Voluntar
+Main.java
+ Main
